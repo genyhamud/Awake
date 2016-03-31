@@ -15,22 +15,6 @@ At first didn't care to much, but if you have to work remotely in a mobile conne
 
 Every 30 seconds, it simulates the action of the F15 key. As there is no keyboard with this specific key they believe that the SO didn't care about it, but Windows translates the command of the F15 key to "~ 8".
 
-## Download ##
-
-Download or grab via Maven:
-```xml
-<dependency>
-  <groupId>org.genyherrera.awake</groupId>
-  <artifactId>Awake</artifactId>
-  <version>1.0-SNAPSHOT</version>
-</dependency>
-```
-or Gradle:
-```groovy
-compile 'org.genyherrera.awake:Awake:1.0-SNAPSHOT'
-```
-
-
 ## Running ##
 
 ```java

@@ -46,8 +46,8 @@
 	</developers>
 
 	<scm>
-		<connection>scm:git:git@github.com:genyherrera/awake.git</connection>
-		<developerConnection>scm:git:git@github.com:genyherrera/awake.git</developerConnection>
+		<connection>scm:git:git@github.com:genyherrera/Awake.git</connection>
+		<developerConnection>scm:git:git@github.com:genyherrera/Awake.git</developerConnection>
 		<url>git@github.com:genyherrera/awake.git</url>
 	</scm>
 
