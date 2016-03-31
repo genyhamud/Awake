@@ -156,7 +156,7 @@ public class GUIHandler {
 	 */
 	private TrayIcon getTrayIcon(Image image) {
 		int trayIconWidth = new TrayIcon(image).getSize().width;
-		return new TrayIcon(image.getScaledInstance(trayIconWidth, -1, Image.SCALE_SMOOTH),"Awaken",popup);
+		return new TrayIcon(image.getScaledInstance(trayIconWidth, -1, Image.SCALE_SMOOTH),"Awake",popup);
 	}
 
 	/**

@@ -18,5 +18,11 @@ Every 30 seconds, it simulates the action of the F15 key. As there is no keyboar
 ## Running ##
 
 ```java
-java -jar Awake
+java -jar Awake-1.0-SNAPSHOT.jar
+```
+
+```java
+Download the file [Awake-1.0-SNAPSHOT.jar](https://github.com/genyherrera/Awake/raw/master/Awake-1.0-SNAPSHOT.jar) and copy to your Startup folder, usually in C:\Users\[user]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs.
+
+This will make the application available every time that you turn your computer on. 
 ```
