@@ -2,8 +2,8 @@
 
 :sleeping: Awake is a alternative to Caffeine to prevent your PC from sleeping.
 
-[![Apache License](http://img.shields.io/badge/license-ASL-blue.svg)](https://github.com/genyherrera/awake/blob/master/LICENSE)
-[![Build Status](https://travis-ci.org/genyherrera/awake.svg)](https://travis-ci.org/genyherrera/awake)
+[![Apache License](http://img.shields.io/badge/license-ASL-blue.svg)](https://github.com/genyherrera/Awake/blob/master/LICENSE)
+[![Build Status](https://travis-ci.org/genyherrera/Awake.svg)](https://travis-ci.org/genyherrera/Awake)
 
 ![Screenshots](scr1.png)
 
@@ -27,7 +27,7 @@ Download or grab via Maven:
 ```
 or Gradle:
 ```groovy
-compile 'org.genyherrera.awake:awake:1.0-SNAPSHOT'
+compile 'org.genyherrera.awake:Awake:1.0-SNAPSHOT'
 ```
 
 
