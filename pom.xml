@@ -140,6 +140,8 @@
 					<excludes>
 						<exclude>src/test/resources/**</exclude>
 						<exclude>src/main/resources/**</exclude>
+						<exclude>**README.MD</exclude>
+						<exclude>**LICENSE**</exclude>
 					</excludes>
 				</configuration>
 				<executions>
