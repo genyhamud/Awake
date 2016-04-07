@@ -1,6 +1,6 @@
 # Awake #
 
-:sleeping: Awake is a alternative to Caffeine or NoSleep to prevent your PC from sleeping.
+:hourglass_flowing_sand: Awake is a alternative to Caffeine or NoSleep to prevent your PC from sleeping.
 
 [![Apache License](http://img.shields.io/badge/license-ASL-blue.svg)](https://github.com/genyherrera/Awake/blob/master/LICENSE)
 [![Build Status](https://travis-ci.org/genyherrera/Awake.svg)](https://travis-ci.org/genyherrera/Awake)
