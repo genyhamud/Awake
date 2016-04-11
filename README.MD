@@ -4,6 +4,7 @@
 
 [![Apache License](http://img.shields.io/badge/license-ASL-blue.svg)](https://github.com/genyherrera/Awake/blob/master/LICENSE)
 [![Build Status](https://travis-ci.org/genyherrera/Awake.svg)](https://travis-ci.org/genyherrera/Awake)
+[![CircleCI Status](https://circleci.com/gh/genyherrera/Awake.svg?style=shield&circle-token=22baeec6d499afffb2179112c7122575dce84522)](https://circleci.com/gh/genyherrera/Awake)
 
 ![Screenshots](scr1.png)
 
