@@ -17,7 +17,6 @@ package com.genyherrera.awake;
 
 import javax.swing.SwingUtilities;
 import javax.swing.UIManager;
-import javax.swing.UnsupportedLookAndFeelException;
 
 import org.apache.log4j.Logger;
 
@@ -37,15 +36,11 @@ public class Awake {
 	public static void main(String[] args) {
 		/* Use an appropriate LookAndFeel, OS default */
 		log.debug("Initialize application");
-<<<<<<< HEAD
-		System.out.println("My test");
-=======
 		try {
 			UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
 		} catch (Exception ex) {
 			ex.printStackTrace();
 		}
->>>>>>> 5600cdbb97df1d4ee8c2fbafade701ff6e1b9bdc
 
 		//Schedule a job for the event-dispatching thread
 		SwingUtilities.invokeLater(new Runnable() {
