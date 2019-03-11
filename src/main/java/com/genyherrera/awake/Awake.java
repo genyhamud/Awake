@@ -40,14 +40,7 @@ public class Awake {
 			UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
 		} catch (UnsupportedLookAndFeelException ex) {
 			ex.printStackTrace();
-		} catch (IllegalAccessException ex) {
-			ex.printStackTrace();
-		} catch (InstantiationException ex) {
-			ex.printStackTrace();
-		} catch (ClassNotFoundException ex) {
-			ex.printStackTrace();
-		}
-
+		} 
 		//Schedule a job for the event-dispatching thread
 		SwingUtilities.invokeLater(new Runnable() {
 			public void run() {
